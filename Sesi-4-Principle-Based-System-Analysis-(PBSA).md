@@ -1,5 +1,6 @@
 
 # Sesi 4 - Principle-Based System Analysis (PBSA)
+### By: Muhammad Syukri, M.TI
 
 
 Principle-Based System Analysis (PBSA) adalah suatu metode analisis sistem yang berfokus pada prinsip-prinsip atau aturan-aturan umum yang membimbing desain dan implementasi sistem. Dalam konteks matakuliah Analisis Sistem Informasi, PBSA bertujuan untuk memahami dan merancang sistem informasi berdasarkan prinsip-prinsip yang mendasari proses bisnis dan kebutuhan pengguna.
